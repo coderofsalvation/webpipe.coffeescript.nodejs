@@ -1,11 +1,18 @@
-bashlive.webpipes.coffeescript
-==============================
+bashlive.webpipes.coffeescript.nodejs
+=====================================
 
 Example coffeescript webpipe 
 
 # Lets run the webpipe 
 
+coffeescript:
+
     $ ./webpipe.coffee 
+    webpipe 'foo' listening on 0.0.0.0:3000
+
+or nodejs:
+
+    $ node webpipe.js
     webpipe 'foo' listening on 0.0.0.0:3000
 
 # Lets test it using a webpipe client 
