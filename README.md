@@ -21,7 +21,7 @@ For convenience we use the [webpipe.bash](http://webpipe.bashlive.com) webpipe-c
       csv2json              -> http://neon-biop-490.appspot.com/csv2json
       url2html              -> http://neon-biop-490.appspot.com/url2html
       xml2json              -> http://neon-biop-490.appspot.com/xml2json
-      foo                   -> http://localhost:3000/foo                       <--- there it is
+      foo                   -> http://localhost:3000/foo                    <-- voila!
       json2csv              -> http://neon-biop-490.appspot.com/json2csv
       json_print_r          -> http://neon-biop-490.appspot.com/json_print_r
       striphtml             -> http://neon-biop-490.appspot.com/striphtml
